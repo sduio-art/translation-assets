@@ -1,0 +1,42 @@
+{
+  "glossaries": {
+    "trust": {
+      "gaming chair": {
+        "french": "chaise gaming"
+      },
+      "gaming": {
+        "french": "gaming"
+      },
+      "drivers": {
+        "french": "transducteurs"
+      },
+      "headset": {
+        "french": "casque"
+      },
+      "playtime": {
+        "french": "autonomie"
+      },
+      "gamer": {
+        "french": "joueur"
+      },
+      "adjustable headband": {
+        "french": "arceau réglable"
+      },
+      "D-pad": {
+        "french": "croix directionnelle"
+      },
+      "volume control": {
+        "french": "contrôle du volume"
+      },
+      "setup": {
+        "french": "setup"
+      },
+      "backrest": {
+        "french": "dossier"
+      },
+      "over-ear": {
+        "french": "supra-auriculaire"
+      }
+    }
+  }
+}
